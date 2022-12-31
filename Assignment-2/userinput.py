@@ -1,7 +1,7 @@
 #Simple the_BMI calculator using user input only::
 
 
-# convert to feet,inche ::
+# convert  feet,inche to Centimeter ::
 print("Enter Your Number For calculate :>")
 h_ft = int(input("Feet: "))
 h_inch = int(input("Inches: "))   
